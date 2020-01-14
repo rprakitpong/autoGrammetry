@@ -1,5 +1,6 @@
 # autoPhotogrammetry
-Automating Photogrammetry; nwHacks2020
+Automating Mid-size Photogrammetry; nwHacks2020
+In collaboration with: Jonathan Luna, Manu Mahadevan Koipallil
 
 ![](Media/rotatingview.gif)
 
